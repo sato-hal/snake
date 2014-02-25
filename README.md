@@ -1,0 +1,4 @@
+snake
+=====
+
+snake algorithm
